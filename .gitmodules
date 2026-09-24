@@ -1,0 +1,4 @@
+[submodule "guided-coding-workshop"]
+	path = guided-coding-workshop
+	url = ../guided-coding-workshop.git
+	branch = main
