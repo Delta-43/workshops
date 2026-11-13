@@ -8,6 +8,7 @@ Each workshop lives in its own repository and is included here as a [git submodu
 | Workshop | What it covers | Folder |
 |---|---|---|
 | **Guided Coding Workshop** | AI-assisted development at three levels (web chat → editor + memory → CLI agents), building one weather dashboard three times. | [`guided-coding-workshop/`](https://github.com/Delta-43/guided-coding-workshop) |
+| **Co-operative Coding Workshop** | Working as a team with AI agents: roles, a shared contract, issues, branches, pull requests, CI and sign-off. Two people and two agents build a live quiz game on stage. | [`cooperative-coding-workshop/`](https://github.com/Delta-43/cooperative-coding-workshop) |
 
 ## Get everything
 
