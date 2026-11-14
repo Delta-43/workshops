@@ -2,3 +2,7 @@
 	path = guided-coding-workshop
 	url = ../guided-coding-workshop.git
 	branch = main
+[submodule "cooperative-coding-workshop"]
+	path = cooperative-coding-workshop
+	url = ../cooperative-coding-workshop.git
+	branch = main
